@@ -1,1 +1,9 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <app-permissions package="com.google.vr.vrcore">
+        <permission name="com.google.vr.vrcore.permission.VRCORE_INTERNAL"/>
+        <permission name="android.permission.UNKNOWN"/>
+        <permission name="android.permission.UNKOWN"/>
+        <permission name="android.permission.UNKNOWN"/>
+    </app-permissions>
+</permissions>
