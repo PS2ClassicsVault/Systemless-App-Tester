@@ -1,4 +1,4 @@
-# Systemless App Teater Magisk Module
+# Systemless App Tester Magisk Module
 
 ### Version:
 v1.0
