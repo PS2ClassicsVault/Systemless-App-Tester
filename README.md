@@ -23,4 +23,4 @@ This module doesn't install anything out of the box, please download it then add
 - Rooted device
 
 ## Changelog
-[View changelog here](changelog.md)
+[View changelog here](url)
