@@ -1,0 +1,9 @@
+id=AppTester
+name=Systemless App Tester
+version=v1
+versionCode=1
+author=Cyberdev
+description=Allows developers to test their app to se if it can be installed systemlessly w/out issues.
+support=
+changelog=
+updateJson=
