@@ -10,7 +10,7 @@ v1.0
 Allows developers to test their app systemlessly to see if their app can run systemlessly w/out issues!
 
 ## Notice:
-This module doesn't install anything out of the box, please download it then add your own app to systemlessly test your own app,If you need assistance olease refer to the howtosetup file within the module/repo
+This module doesn't install anything out of the box, please download it then add your own app to systemlessly test your own app,If you need assistance please refer to the howtosetup file within the module/repo
 
 ## Installation 
 1. Flash the module in Magisk
@@ -23,4 +23,4 @@ This module doesn't install anything out of the box, please download it then add
 - Rooted device
 
 ## Changelog
-[View changelog here](url)
+[View changelog here](changelog.md)
