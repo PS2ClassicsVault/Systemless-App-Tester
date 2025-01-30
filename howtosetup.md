@@ -75,11 +75,9 @@ you can see how it's setup and it's very easy to setup as long as you take your 
 Now to begin lets view the first line we need to edit:
 
 This is where you will place the package name.
-                                 |
-                           ↓---------------↓
+
 <app-permissions package="name.of.package">
-  ↑_________________↑
-           |
+
 This will tell android were the app is located if your app is located in the priv-app folder you will need to edit it like shown below:
 
 <privapp-permissions package="name.of.package">
